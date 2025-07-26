@@ -3,5 +3,6 @@ class user{
 
     public static void main(String args[]){
         user u = new user();
+        user u2 = new user();
     }
 }
